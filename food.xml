@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="food.xsd"
+    <cold>
+        <food id="1">
+            <photo>url</photo>
+            <title>Ассорти рыбное</title>
+            <description>Слабосоленая форель, семга</description>
+            <portion>100/20/15</portion>
+            <price>1</price>
+        </food>
+        <food id="2">
+            <photo>url</photo>
+            <title>Тарталетки с красной икрой</title>
+            <description>Тарталетки с красной икрой</description>
+            <portion>60/50</portion>
+            <price>2</price>
+        </food>
+        <food id="3">
+            <photo>url</photo>
+            <title>Закуска по-русски</title>
+            <description>Кусочки атлантической сельди с отварным картофелем, луком, лимоном и зеленью</description>
+            <portion>100/20/15</portion>
+            <price>3</price>
+        </food>
+    </cold>
+    <warm>
+        <food id="4">
+            <photo>url</photo>
+            <title>Лобио с шампиньонами</title>
+            <description>Фасоль с шампиньонами и грецким орехом</description>
+            <portion>150/5</portion>
+            <price>105</price>
+        </food>
+    </warm>
+    <breakfast>
+        <food id="5">
+            <photo>url</photo>
+            <title>Глазунья</title>
+            <description>2 яйца (на выбор: ветчина, сыр, помидоры)</description>
+            <portion>150</portion>
+            <price></price>
+        </food>
+    </breakfast>
+
+</menu>
