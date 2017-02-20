@@ -1,9 +1,9 @@
 package main;
 
-import parser.DOM.DOMMenuParser;
+import parser.dom.DOMMenuParser;
 import parser.ParseException;
-import parser.SAX.SAXMenuParser;
-import parser.StAX.StAXMenuParser;
+import parser.sax.SAXMenuParser;
+import parser.stax.StAXMenuParser;
 import printer.Printer;
 
 /**
